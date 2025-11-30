@@ -1,0 +1,14 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/476528284941620079/bb3470be942d4a7c9c3a1fb896ad6d09/artifacts
+end_time: 1764415337292
+entry_point_name: ''
+experiment_id: '476528284941620079'
+lifecycle_stage: active
+run_id: bb3470be942d4a7c9c3a1fb896ad6d09
+run_name: Sales_KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764415337195
+status: 3
+tags: []
+user_id: mohammed kadry

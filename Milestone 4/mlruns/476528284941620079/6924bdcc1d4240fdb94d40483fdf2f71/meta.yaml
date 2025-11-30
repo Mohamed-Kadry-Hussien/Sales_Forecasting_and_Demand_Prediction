@@ -1,0 +1,14 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/476528284941620079/6924bdcc1d4240fdb94d40483fdf2f71/artifacts
+end_time: 1764415337185
+entry_point_name: ''
+experiment_id: '476528284941620079'
+lifecycle_stage: active
+run_id: 6924bdcc1d4240fdb94d40483fdf2f71
+run_name: Sales_DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764415337103
+status: 3
+tags: []
+user_id: mohammed kadry

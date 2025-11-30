@@ -1,0 +1,14 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/371421150298857244/134fed9887d448878ade3eb19ffbb6d9/artifacts
+end_time: 1764415424253
+entry_point_name: ''
+experiment_id: '371421150298857244'
+lifecycle_stage: active
+run_id: 134fed9887d448878ade3eb19ffbb6d9
+run_name: Quantity_KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764415424175
+status: 3
+tags: []
+user_id: mohammed kadry

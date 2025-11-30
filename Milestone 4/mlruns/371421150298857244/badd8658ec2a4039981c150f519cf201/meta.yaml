@@ -1,0 +1,14 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/371421150298857244/badd8658ec2a4039981c150f519cf201/artifacts
+end_time: 1764415424093
+entry_point_name: ''
+experiment_id: '371421150298857244'
+lifecycle_stage: active
+run_id: badd8658ec2a4039981c150f519cf201
+run_name: Quantity_RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764415423996
+status: 3
+tags: []
+user_id: mohammed kadry

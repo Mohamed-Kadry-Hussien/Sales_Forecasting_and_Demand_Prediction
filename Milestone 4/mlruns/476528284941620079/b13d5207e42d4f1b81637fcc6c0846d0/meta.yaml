@@ -1,0 +1,14 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/476528284941620079/b13d5207e42d4f1b81637fcc6c0846d0/artifacts
+end_time: 1764415337093
+entry_point_name: ''
+experiment_id: '476528284941620079'
+lifecycle_stage: active
+run_id: b13d5207e42d4f1b81637fcc6c0846d0
+run_name: Sales_RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764415336437
+status: 3
+tags: []
+user_id: mohammed kadry

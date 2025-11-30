@@ -1,0 +1,14 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/371421150298857244/8c240b37b83d4c24b11855ec89d10169/artifacts
+end_time: 1764415337714
+entry_point_name: ''
+experiment_id: '371421150298857244'
+lifecycle_stage: active
+run_id: 8c240b37b83d4c24b11855ec89d10169
+run_name: Quantity_DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764415337633
+status: 3
+tags: []
+user_id: mohammed kadry

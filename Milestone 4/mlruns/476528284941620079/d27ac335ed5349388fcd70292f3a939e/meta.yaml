@@ -1,0 +1,14 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/476528284941620079/d27ac335ed5349388fcd70292f3a939e/artifacts
+end_time: 1764414881859
+entry_point_name: ''
+experiment_id: '476528284941620079'
+lifecycle_stage: active
+run_id: d27ac335ed5349388fcd70292f3a939e
+run_name: final_Sales_xgb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764414881323
+status: 4
+tags: []
+user_id: mohammed kadry

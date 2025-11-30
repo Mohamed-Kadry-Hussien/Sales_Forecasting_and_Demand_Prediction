@@ -1,0 +1,14 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/476528284941620079/62638426f823468289f080debe19a648/artifacts
+end_time: 1764415423900
+entry_point_name: ''
+experiment_id: '476528284941620079'
+lifecycle_stage: active
+run_id: 62638426f823468289f080debe19a648
+run_name: Sales_AdaBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764415423831
+status: 3
+tags: []
+user_id: mohammed kadry

@@ -1,0 +1,14 @@
+artifact_uri: file:F:/DEPI files/MLFlow/Modeling/mlruns/371421150298857244/6b2f02ef49cb476485a5e04ffd6743b5/artifacts
+end_time: 1764415337499
+entry_point_name: ''
+experiment_id: '371421150298857244'
+lifecycle_stage: active
+run_id: 6b2f02ef49cb476485a5e04ffd6743b5
+run_name: Quantity_XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764415337405
+status: 3
+tags: []
+user_id: mohammed kadry
